@@ -35,4 +35,4 @@ Evaluate salesperson contributions for performance reviews
 Make informed decisions on inventory planning and sales strategies
 
 5. Screenshots:
-![Dashboard_preview}(
+![Dashboard_preview](https://github.com/Prerna0110/Chocolate_Sales_Dashboard/blob/main/Dashboard_Snapshot2.png)
