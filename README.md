@@ -1,8 +1,10 @@
 # Chocolate_Sales_Dashboard
-1. Project Overview
+1. Project Overview:
+
 This Power BI dashboard provides an analytical view of product shipping and sales performance. It tracks key metrics such as the number of boxes shipped, sales amount by product, and performance of sales representatives. The dashboard enables stakeholders to monitor trends across products, time periods, and sales teams for better operational decisions.
 
-2. Key Insights & Features
+2. Key Insights & Features:
+
 KPIs Overview:
   Total Products Shipped: 22
   Total Sales Amount: $1,015
@@ -20,14 +22,16 @@ KPIs Overview:
   Interactive Filters:
   By Country and Product, allowing customized drill-down analysis.
 
-3. Tools & Techniques Used
+3. Tools & Techniques Used:
+
 Power BI for visualization
 Power Query for data cleaning and preparation
 DAX for KPI calculations
 
 Visuals Used: Line chart, Bar chart, Waterfall chart, Donut chart, Card visuals
 
-4. Business Impact
+4. Business Impact:
+
 This dashboard helps businesses:
 Identify best-selling and least-performing products
 Track monthly and quarterly shipping patterns
@@ -35,4 +39,5 @@ Evaluate salesperson contributions for performance reviews
 Make informed decisions on inventory planning and sales strategies
 
 5. Screenshots:
+
 ![Dashboard_preview](https://github.com/Prerna0110/Chocolate_Sales_Dashboard/blob/main/Dashboard_Snapshot2.png)
